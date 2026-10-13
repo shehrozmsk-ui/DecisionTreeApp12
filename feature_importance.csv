@@ -1,0 +1,165 @@
+Feature,Importance
+numeric__total_carbohydrates_(g),0.20240153222384935
+numeric__sugars_(g),0.17226754936530642
+numeric__protein_(g),0.13869349004304177
+categorical__caffeine_(mg)_0,0.08201548195506393
+numeric__calories,0.07339365279985488
+categorical__beverage_Vanilla Latte (Or Other Flavoured Latte),0.06893805604113865
+categorical__beverage_Caffè Mocha (Without Whipped Cream),0.056590941526307836
+numeric__cholesterol_(mg),0.04996365242950493
+categorical__beverage_Caramel Apple Spice (Without Whipped Cream),0.04295026518440486
+categorical__beverage_Tazo® Green Tea Latte,0.042262103499109596
+categorical__vitamin_a_(%_dv)_4%,0.033140636716361783
+categorical__beverage_Brewed Coffee,0.021475132592202434
+categorical__beverage_Coffee,0.015907505623853655
+categorical__beverage_Banana Chocolate Smoothie,0.0
+numeric__dietary_fibre_(g),0.0
+categorical__beverage_Caffè Latte,0.0
+categorical__beverage_Caffè Americano,0.0
+numeric__sodium_(mg),0.0
+numeric__trans_fat_(g),0.0
+numeric__saturated_fat_(g),0.0
+categorical__beverage_Espresso,0.0
+categorical__beverage_Hot Chocolate (Without Whipped Cream),0.0
+categorical__beverage_Iced Brewed Coffee (With Classic Syrup),0.0
+categorical__beverage_Iced Brewed Coffee (With Milk & Classic Syrup),0.0
+categorical__beverage_Java Chip,0.0
+categorical__beverage_Java Chip (Without Whipped Cream),0.0
+categorical__beverage_Mocha,0.0
+categorical__beverage_Mocha (Without Whipped Cream),0.0
+categorical__beverage_Orange Mango Banana Smoothie,0.0
+categorical__beverage_Shaken Iced Tazo® Tea (With Classic Syrup),0.0
+categorical__beverage_Shaken Iced Tazo® Tea Lemonade (With Classic Syrup),0.0
+categorical__beverage_Skinny Latte (Any Flavour),0.0
+categorical__beverage_Caramel,0.0
+categorical__beverage_Cappuccino,0.0
+categorical__beverage_Caramel (Without Whipped Cream),0.0
+categorical__beverage_Caramel Macchiato,0.0
+categorical__beverage_Tazo® Full-Leaf Red Tea Latte (Vanilla Rooibos),0.0
+categorical__beverage_Tazo® Chai Tea Latte,0.0
+categorical__beverage_Strawberry Banana Smoothie,0.0
+categorical__beverage_Strawberries & Crème (Without Whipped Cream),0.0
+categorical__beverage_Vanilla Bean (Without Whipped Cream),0.0
+categorical__beverage_White Chocolate Mocha (Without Whipped Cream),0.0
+categorical__beverage_prep_2% Milk,0.0
+categorical__beverage_Tazo® Tea,0.0
+categorical__beverage_prep_Grande,0.0
+categorical__beverage_prep_Grande Nonfat Milk,0.0
+categorical__beverage_prep_Short,0.0
+categorical__beverage_prep_Short Nonfat Milk,0.0
+categorical__beverage_prep_Solo,0.0
+categorical__beverage_prep_Soymilk,0.0
+categorical__beverage_prep_Tall,0.0
+categorical__beverage_Tazo® Full-Leaf Tea Latte,0.0
+categorical__beverage_prep_Venti,0.0
+categorical__beverage_prep_Venti Nonfat Milk,0.0
+categorical__beverage_prep_Whole Milk,0.0
+categorical__total_fat_(g)_0,0.0
+categorical__total_fat_(g)_0.1,0.0
+categorical__total_fat_(g)_0.2,0.0
+categorical__total_fat_(g)_0.3,0.0
+categorical__total_fat_(g)_0.4,0.0
+categorical__total_fat_(g)_0.5,0.0
+categorical__total_fat_(g)_1,0.0
+categorical__total_fat_(g)_1.5,0.0
+categorical__total_fat_(g)_10,0.0
+categorical__total_fat_(g)_11,0.0
+categorical__total_fat_(g)_13,0.0
+categorical__total_fat_(g)_15,0.0
+categorical__beverage_prep_Doppio,0.0
+categorical__total_fat_(g)_2,0.0
+categorical__total_fat_(g)_2.5,0.0
+categorical__total_fat_(g)_3.5,0.0
+categorical__total_fat_(g)_3,0.0
+categorical__total_fat_(g)_4.5,0.0
+categorical__total_fat_(g)_5,0.0
+categorical__total_fat_(g)_6,0.0
+categorical__total_fat_(g)_4,0.0
+categorical__total_fat_(g)_8,0.0
+categorical__total_fat_(g)_9,0.0
+categorical__vitamin_a_(%_dv)_0%,0.0
+categorical__vitamin_a_(%_dv)_10%,0.0
+categorical__vitamin_a_(%_dv)_15%,0.0
+categorical__vitamin_a_(%_dv)_2%,0.0
+categorical__vitamin_a_(%_dv)_20%,0.0
+categorical__total_fat_(g)_7,0.0
+categorical__vitamin_a_(%_dv)_25%,0.0
+categorical__vitamin_a_(%_dv)_30%,0.0
+categorical__vitamin_a_(%_dv)_50%,0.0
+categorical__vitamin_a_(%_dv)_6%,0.0
+categorical__vitamin_a_(%_dv)_8%,0.0
+categorical__vitamin_c_(%_dv)_0%,0.0
+categorical__vitamin_c_(%_dv)_10%,0.0
+categorical__vitamin_c_(%_dv)_100%,0.0
+categorical__vitamin_c_(%_dv)_15%,0.0
+categorical__vitamin_c_(%_dv)_2%,0.0
+categorical__vitamin_c_(%_dv)_20%,0.0
+categorical__vitamin_c_(%_dv)_4%,0.0
+categorical__vitamin_c_(%_dv)_6%,0.0
+categorical__vitamin_c_(%_dv)_8%,0.0
+categorical__vitamin_c_(%_dv)_80%,0.0
+categorical__beverage_prep_Tall Nonfat Milk,0.0
+categorical__calcium_(%_dv)_0%,0.0
+categorical__calcium_(%_dv)_10%,0.0
+categorical__calcium_(%_dv)_2%,0.0
+categorical__calcium_(%_dv)_15%,0.0
+categorical__calcium_(%_dv)_25%,0.0
+categorical__calcium_(%_dv)_30%,0.0
+categorical__calcium_(%_dv)_35%,0.0
+categorical__calcium_(%_dv)_20%,0.0
+categorical__calcium_(%_dv)_45%,0.0
+categorical__calcium_(%_dv)_50%,0.0
+categorical__calcium_(%_dv)_6%,0.0
+categorical__calcium_(%_dv)_60%,0.0
+categorical__calcium_(%_dv)_8%,0.0
+categorical__iron_(%_dv)_0%,0.0
+categorical__iron_(%_dv)_0.00%,0.0
+categorical__calcium_(%_dv)_40%,0.0
+categorical__iron_(%_dv)_10%,0.0
+categorical__iron_(%_dv)_10.00%,0.0
+categorical__iron_(%_dv)_15.00%,0.0
+categorical__iron_(%_dv)_15%,0.0
+categorical__iron_(%_dv)_20%,0.0
+categorical__iron_(%_dv)_25%,0.0
+categorical__iron_(%_dv)_30%,0.0
+categorical__iron_(%_dv)_2%,0.0
+categorical__iron_(%_dv)_35%,0.0
+categorical__iron_(%_dv)_4%,0.0
+categorical__iron_(%_dv)_50%,0.0
+categorical__iron_(%_dv)_40%,0.0
+categorical__iron_(%_dv)_6%,0.0
+categorical__iron_(%_dv)_6.00%,0.0
+categorical__iron_(%_dv)_8%,0.0
+categorical__iron_(%_dv)_8.00%,0.0
+categorical__caffeine_(mg)_10,0.0
+categorical__caffeine_(mg)_100,0.0
+categorical__caffeine_(mg)_105,0.0
+categorical__caffeine_(mg)_110,0.0
+categorical__caffeine_(mg)_120,0.0
+categorical__caffeine_(mg)_125,0.0
+categorical__caffeine_(mg)_130,0.0
+categorical__caffeine_(mg)_140,0.0
+categorical__caffeine_(mg)_145,0.0
+categorical__caffeine_(mg)_15,0.0
+categorical__caffeine_(mg)_150,0.0
+categorical__caffeine_(mg)_170,0.0
+categorical__caffeine_(mg)_175,0.0
+categorical__caffeine_(mg)_180,0.0
+categorical__caffeine_(mg)_20,0.0
+categorical__caffeine_(mg)_235,0.0
+categorical__caffeine_(mg)_25,0.0
+categorical__caffeine_(mg)_260,0.0
+categorical__caffeine_(mg)_30,0.0
+categorical__caffeine_(mg)_300,0.0
+categorical__caffeine_(mg)_410,0.0
+categorical__caffeine_(mg)_50,0.0
+categorical__caffeine_(mg)_55,0.0
+categorical__caffeine_(mg)_65,0.0
+categorical__caffeine_(mg)_70,0.0
+categorical__caffeine_(mg)_75,0.0
+categorical__caffeine_(mg)_80,0.0
+categorical__caffeine_(mg)_85,0.0
+categorical__caffeine_(mg)_90,0.0
+categorical__caffeine_(mg)_95,0.0
+categorical__caffeine_(mg)_Varies,0.0
+categorical__caffeine_(mg)_varies,0.0
